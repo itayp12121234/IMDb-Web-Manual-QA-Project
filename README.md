@@ -3,10 +3,10 @@
 ## Quick Access
 
 - [Exploratory Testing](01-IMDb-Exploratory-Testing.pdf)
-- STP
-- STD
-- Test Cases
-- STR
+- [STP](02-IMDb-STP)
+- [STD](03-IMDb-STD)
+- [Test Cases](04-IMDb-Test-Cases)
+- [STR](05-IMDb-STR)
 
 ---
 
