@@ -2,7 +2,7 @@
 
 ## Quick Access
 
-- [Exploratory Testing](01 IMDb-Exploratory-Testing.pdf)
+- [Exploratory Testing](IMDb-Exploratory-Testing.pdf)
 - STP
 - STD
 - Test Cases
